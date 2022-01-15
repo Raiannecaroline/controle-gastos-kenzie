@@ -59,6 +59,13 @@ main section{
     margin-bottom: 10px;
 }
 
+.secaoInsercaoInformacoes button:hover{
+    text-transform: uppercase;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
 .formularioEntradaOrcamento{}
 .formularioEntradaOrcamento h2{
     font-weight: bold;
